@@ -1,0 +1,5 @@
+,Metric,creditcard_exp3
+0,trainaccuracy,0.9803082191780822
+1,trainrecall,0.910913140311804
+2,testaccuracy,0.9850777711456761
+3,testrecall,0.8604651162790697

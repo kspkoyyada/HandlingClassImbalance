@@ -1,0 +1,5 @@
+,Metric,Bankruptcy_exp3
+0,trainaccuracy,0.9265155374426898
+1,trainrecall,0.704635761589404
+2,testaccuracy,0.8747457134553909
+3,testrecall,0.391025641025641
